@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "PSO-IT2FIS: Delay-Dependent Intelligent Fusion for Loosely Coupled GPS/INS"
+authors:
+  - family-names: Elsergany
+    given-names: Ahmed M.
+    affiliation: American University of Sharjah
+  - family-names: Jaradat
+    given-names: Mohammad A.
+    affiliation: American University of Sharjah
+  - family-names: Abdel-Hafez
+    given-names: Mamoun F.
+    affiliation: American University of Sharjah
+license-url: "LICENSE"
+preferred-citation:
+  type: article
+  title: "Delay-Dependent Intelligent Fusion for Loosely Coupled GPS/INS During GPS Outages"
+  authors:
+    - family-names: Elsergany
+      given-names: Ahmed M.
+    - family-names: Jaradat
+      given-names: Mohammad A.
+    - family-names: Abdel-Hafez
+      given-names: Mamoun F.
+  journal: "Soft Computing"
+  status: submitted
